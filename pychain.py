@@ -178,7 +178,7 @@ sender = st.text_input("Sender Data")
 
 # @TODO:
 # Add an input area where you can get a value for `receiver` from the user.
-# YOUR CODE HERE
+reciever = st.text_input("Reciever Data")
 
 # @TODO:
 # Add an input area where you can get a value for `amount` from the user.
